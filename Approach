@@ -1,0 +1,5 @@
+Imported the stock price dataset using Pandas.
+Converted the date column to datetime format and sorted the data chronologically.
+Set the date column as the index for time series analysis.
+Performed trend analysis by plotting the last_value of stock prices over time.
+Interpreted the visualizations to derive meaningful time-based insights.
